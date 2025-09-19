@@ -2,7 +2,7 @@
 
 #conevrsation beetween two friends
 
-echo "hi ravi,how are you"
-echo "hi ramu,iam fine.how are you ?"
-echo "iam good"
-echo "what else"
+echo ramu:"hi ravi,how are you"
+echo ravi:"hi ramu,iam fine.how are you ?"
+echo ramu:"iam good"
+echo ravi:"what else"
