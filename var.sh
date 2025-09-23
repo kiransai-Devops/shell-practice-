@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo " please enter valid pin number"
-read " PIN_NUM"
+echo " please enter your PIN number"
+read PIN_NUMBER
 
-echo "pin_num is : $PIN_NUM"
+echo "PIN enterd is : $PIN_NUMBER"
