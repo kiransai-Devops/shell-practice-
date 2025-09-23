@@ -1,7 +1,6 @@
 #!/bin/bash
 
-PERSON1=$1
-PERSON2=$2
+echo " please enter valid pin number"
+read " pin_num"
 
-echo "$PERSON1: hi PERSON2 how are you"
-echo "$PERSON2: hi PERSON1 iam fine"
+echo "pin_num is : $pin_num"
